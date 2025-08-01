@@ -1,8 +1,5 @@
 #
-# MLP, General Purpose Framework
-#
-#     Assumes inputs to be
-#       one-hot encoded
+# Minimalist MLP Framework
 #
 
 # Packages
