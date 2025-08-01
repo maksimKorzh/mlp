@@ -6,11 +6,11 @@ A minimalist multilayer perceptron framework
  - Support for multiple hidden layers with tanh activation
  - Softmax output layer for classification
  - Cross-entropy loss
- - manual backpropagation
+ - Manual backpropagation
  - Mini-batch gradient descent training
  - Numerical gradient checking utility
  - No external ML libraries — built with pure NumPy
- - times faster than PyTorch for small projects
+ - Times faster than PyTorch for small projects
 
 # Example usage
 ```py
